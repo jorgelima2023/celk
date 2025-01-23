@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Requisitos
 
 * PHP 8.2 ou superior
@@ -74,3 +75,7 @@ Baixar as atualizações
 ```
 git pull
 ```
+=======
+# celk
+curso celk
+>>>>>>> e899b341faa55cb6ea09f6fdbba5bac12d2959a1
